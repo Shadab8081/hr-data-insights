@@ -1,2 +1,5 @@
-# hr-data-insights
-An end-to-end HR analytics project using Python for data cleaning, SQL for insights, and Power BI for dashboard visualization of key workforce KPIs.
+Project Name:
+Workforce Analytics Dashboard
+
+Project Objective:
+To analyze employee data using Python, SQL, and Power BI to uncover key HR insights, including employee turnover, performance trends, and workforce distribution.
