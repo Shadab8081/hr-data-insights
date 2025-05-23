@@ -28,5 +28,12 @@ To analyze employee data using Python, SQL, and Power BI to uncover key HR insig
 ## Dashboard
 ![Screenshot 2025-05-23 160648](https://github.com/user-attachments/assets/1316f0c8-9da7-42a6-ae2b-3d5bd6825834)
 
+## Project Insights:
+- High turnover observed in certain job titles and business units.
+- Performance scores show positive correlation with certain departments.
+- Most employees belong to a few key roles.
+- A diverse marital status mix impacts engagement trends.
 
+## Project Description:
+This project combines data engineering and visualization to help HR teams understand employee behavior and organizational trends. It provides actionable insights through well-structured metrics, helping leadership make data-informed workforce decisions.
 
