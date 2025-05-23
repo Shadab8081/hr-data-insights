@@ -10,7 +10,7 @@ To analyze employee data using Python, SQL, and Power BI to uncover key HR insig
 - [Recruitment Data](https://github.com/Shadab8081/hr-data-insights/blob/main/recruitment_data.csv)  
 - [Training and Development Data](https://github.com/Shadab8081/hr-data-insights/blob/main/training_and_development_data.csv)
 
-##Key Questions / KPIs Answered:
+## Key Questions / KPIs Answered:
 - What is the Employee Turnover Rate?
 - What is the Average Performance Rating of employees?
 - What are the Top 5 Job Titles by Headcount?
@@ -18,5 +18,15 @@ To analyze employee data using Python, SQL, and Power BI to uncover key HR insig
 - What is the Headcount per Business Unit?
 
 - [Dashboard Intrection](https://github.com/Shadab8081/hr-data-insights/blob/main/Screenshot%202025-05-23%20160648.png)
+
+## Process Overview:
+- Data Cleaning: Used Python (Pandas) to clean and preprocess datasets.
+- Data Integration: Merged multiple CSVs using EmpID as the common key.
+- SQL Analysis: Performed exploratory data queries and created base tables.
+- Power BI Dashboard: Built interactive visuals to represent KPIs and trends.
+
+## Dashboard
+![Screenshot 2025-05-23 160648](https://github.com/user-attachments/assets/1316f0c8-9da7-42a6-ae2b-3d5bd6825834)
+
 
 
