@@ -28,6 +28,10 @@ To analyze employee data using Python, SQL, and Power BI to uncover key HR insig
 ## Dashboard
 ![Screenshot 2025-05-23 160648](https://github.com/user-attachments/assets/1316f0c8-9da7-42a6-ae2b-3d5bd6825834)
 
+## Sql Hr analytics
+![Screenshot 2025-05-23 165425](https://github.com/user-attachments/assets/a7e3a153-60b2-4e02-b7f3-3c3eabd8bb1b)
+
+
 ## Project Insights:
 - High turnover observed in certain job titles and business units.
 - Performance scores show positive correlation with certain departments.
